@@ -1,0 +1,101 @@
+student_id,name,email,join_date
+S001,Alexis Smith,jennifer15@garcia.net,2023-09-21
+S002,Timothy Wise PhD,hillcourtney@allen.org,2024-01-18
+S003,Jeremy Fox,kevin30@willis.com,2024-03-06
+S004,Jonathan Kelly,matthewknox@sparks.net,2024-03-10
+S005,Danielle Hernandez,angelatanner@gmail.com,2023-09-02
+S006,Aaron Solomon,butlerjason@torres.com,2024-02-05
+S007,Christy Long,nicole53@gmail.com,2024-04-26
+S008,Carlos Wilson,haasdavid@gmail.com,2024-05-26
+S009,Edward Blackburn,elizabethcaldwell@yahoo.com,2023-09-19
+S010,Christopher Robinson,balvarez@nicholson.info,2024-03-30
+S011,Heather Bell,pauladrake@deleon.com,2024-04-06
+S012,Karen Mayo,kimberlyfisher@jones.org,2023-06-14
+S013,Parker Robbins,lauralopez@castillo.net,2024-03-27
+S014,Justin Robinson,shawn31@parker.net,2024-04-04
+S015,Miguel Bates,angelapetersen@lloyd.net,2023-07-16
+S016,Sandra Hubbard DVM,tthomas@yahoo.com,2023-10-30
+S017,Katelyn Burton,cynthianorman@james-jackson.com,2024-03-18
+S018,Justin West,stephanie40@hotmail.com,2024-04-05
+S019,Lisa Hall,debra34@yahoo.com,2024-05-10
+S020,Madeline Ward,harrisaaron@medina.com,2023-09-28
+S021,Scott Cain,bkane@yahoo.com,2023-07-19
+S022,Benjamin Mcintyre,alexandria60@holmes-ray.com,2024-02-25
+S023,Antonio Silva,lrussell@hotmail.com,2023-07-18
+S024,Allison Hester,meredith68@gmail.com,2024-03-23
+S025,Ryan Pace,ibecker@herrera.net,2024-05-04
+S026,Deborah Aguirre,shieldssabrina@yahoo.com,2024-01-04
+S027,Daniel Dalton,kparker@gmail.com,2024-03-09
+S028,Ashley Johnson,brian60@hotmail.com,2024-03-16
+S029,Debra Adkins,nicolelewis@peterson.com,2024-02-27
+S030,Christian Hodge,madison11@hotmail.com,2024-02-26
+S031,Mrs. Erica Ortiz,kevin21@gmail.com,2024-01-20
+S032,Jaime Simon,maryallen@reid.net,2024-01-29
+S033,Daniel Brewer,zmendoza@hotmail.com,2023-08-23
+S034,Kevin Peters,ytaylor@yahoo.com,2023-11-25
+S035,Jessica Wong,kellyrobinson@hotmail.com,2023-12-05
+S036,Amber Patel,kellysandra@yahoo.com,2023-08-08
+S037,Jonathan Medina,jennakline@white-garcia.biz,2023-10-10
+S038,Gregory Bray DDS,qsmith@combs-riley.com,2024-04-12
+S039,Deborah Gonzalez,moorewilliam@black.com,2023-11-20
+S040,Tammy Guzman,brandi14@gmail.com,2023-11-21
+S041,Amy Brown,bwhite@hotmail.com,2024-02-03
+S042,Jill Flores,ccampbell@ford.com,2024-04-26
+S043,Carol Morgan,azhang@whitney.com,2023-09-25
+S044,Sarah Lucas,zbowen@yahoo.com,2023-06-17
+S045,Melissa Jones,walshchristopher@jackson.com,2023-11-22
+S046,Molly Snyder,joshuabarber@ferguson.info,2023-11-21
+S047,Mary Walker,jenniferreyes@gmail.com,2024-05-26
+S048,Anthony Calderon,hannahgonzalez@hotmail.com,2024-03-04
+S049,Curtis Aguirre,tammylee@newman.com,2023-11-22
+S050,Nicholas Ortega,lpadilla@yahoo.com,2024-04-19
+S051,Cody Welch,stephanie44@cameron-mcfarland.info,2024-02-05
+S052,Amanda Lyons,bryanheather@yahoo.com,2024-01-19
+S053,Michelle Walker,john41@yahoo.com,2023-06-30
+S054,Phillip Harvey MD,lawrencetim@smith.com,2023-09-12
+S055,Brian Perez,zmoore@yahoo.com,2023-09-26
+S056,Joseph Benitez,kevincarrillo@moore.net,2024-06-02
+S057,Charles Kirk,morenolindsay@burke-bright.com,2024-05-04
+S058,Darrell Wilkins,glenn98@lucas.com,2024-04-19
+S059,Wesley Davis,greendestiny@gmail.com,2024-06-07
+S060,Matthew Tapia DDS,stephanierodriguez@hotmail.com,2023-08-29
+S061,James Franklin,jeffrey43@wong-wilson.com,2024-05-03
+S062,Annette Fowler,catherinejohnson@gmail.com,2024-01-09
+S063,Alexander Gonzalez,oorr@gmail.com,2023-06-19
+S064,Christopher Hernandez,christina73@hotmail.com,2024-02-01
+S065,Joshua Garcia,pmiller@gmail.com,2023-11-23
+S066,Donna Martinez,cwilson@walsh-moses.com,2023-08-01
+S067,Michelle Murray,sandra64@kidd.com,2024-01-04
+S068,Billy Nunez,lisahayes@gmail.com,2023-07-21
+S069,Sarah Garza,nelsondeborah@yahoo.com,2024-04-25
+S070,Gina Kelly,scottmelissa@rodriguez.org,2023-07-20
+S071,Arthur Jones,berrydavid@hotmail.com,2023-07-12
+S072,Jared Scott,jacksonevan@gmail.com,2023-10-20
+S073,Joel Lucas,samanthagreen@hotmail.com,2024-04-29
+S074,Barbara James,jeffrey40@stephens.org,2024-02-10
+S075,Harold Johns,whitesamantha@cooper.com,2024-03-06
+S076,Eric Baldwin,joshua14@hotmail.com,2023-11-11
+S077,Jeffrey Wood,zmartinez@yahoo.com,2023-08-15
+S078,Melanie King,leeanna@simpson.com,2023-07-30
+S079,Denise Medina,ureese@hess.net,2024-01-24
+S080,Amber Wyatt,caitlingarcia@wood.biz,2024-02-06
+S081,Dr. Jodi Castaneda,gabriela98@sanders.com,2023-10-16
+S082,Cheryl Jones,lopezjohn@gmail.com,2023-07-12
+S083,Lisa Smith,kurt80@franklin.org,2024-03-04
+S084,John Mckinney,jamesdavis@gmail.com,2023-08-16
+S085,Angela Lawrence,gibsonjennifer@hotmail.com,2024-02-04
+S086,William Buck,rebeccahudson@yahoo.com,2023-06-20
+S087,Beverly Miller,ireyes@gmail.com,2023-11-19
+S088,Juan Huerta,tcastillo@jackson.com,2023-09-03
+S089,James Alexander,tnelson@hotmail.com,2024-03-31
+S090,Lisa Edwards DDS,daniel04@gmail.com,2023-09-20
+S091,Betty Cook,lauren65@hotmail.com,2024-03-31
+S092,Rebecca Macdonald,ycox@wood.biz,2023-11-29
+S093,Richard Parker,dgould@yahoo.com,2023-11-27
+S094,Jessica Myers,byrdjennifer@yahoo.com,2024-05-16
+S095,Brittany Soto,farmermatthew@smith.com,2024-02-25
+S096,Michael Davidson,sarahweiss@bernard.com,2024-01-21
+S097,John Woods,candace07@gibson.com,2023-06-14
+S098,Randall Davis,raymond78@stokes.com,2023-08-19
+S099,James Smith,susanbartlett@gmail.com,2024-03-12
+S100,Christina Carson,patrickheidi@hotmail.com,2024-01-09
