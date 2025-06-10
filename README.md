@@ -78,7 +78,7 @@ This module is responsible for ingesting raw CSV files into tables within Micros
 
 
 
-# 2. Data Cleaning and Joining (Silver Layer)
+# 2. Data Cleaning and Joining (Silver Layer)(Script/SL_Data_Processing.ipynb)
 
 Data cleaning and joining to create refined data in the Silver layer are performed using notebooks within Microsoft Fabric.
 
@@ -91,7 +91,7 @@ Data cleaning and joining to create refined data in the Silver layer are perform
     * `silver_assignment_course_view`: A joined view of `assignments` and `courses`.
     * `silver_submission_status_view`: A matrix showing the submission status for each student-assignment pair.
 
-# 3. Analytical Outputs (Gold Layer)
+# 3. Analytical Outputs (Gold Layer)(Script/GL_Data_Processing.ipynb)
 
 The final analytical outputs based on the Silver layer tables are performed using notebooks within Microsoft Fabric.
 
@@ -101,6 +101,6 @@ The final analytical outputs based on the Silver layer tables are performed usin
     * `gold_submission_rate_per_course`: Calculates the percentage of actual versus expected submissions per course.
     * `gold_overdue_assignments_per_student`: Counts the number of late submissions for each student.
 
-# 4. Getting the Output After the Full Pipeline Runs Succeccfully
+# 4. Getting the Output After the Full Pipeline Runs Succeccfully(Script/Generating_output.ipynb)
 
 Executing the Generating_output notebook produces the final JSON output by leveraging PySpark queries to retrieve the data.
